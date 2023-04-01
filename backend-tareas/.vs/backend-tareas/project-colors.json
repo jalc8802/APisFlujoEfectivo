@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc656e67-5e1d-4bf3-a697-bbf77b3d9b6d": {
+      "ProjectGuid": "dc656e67-5e1d-4bf3-a697-bbf77b3d9b6d",
+      "DisplayName": "backend-tareas",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
